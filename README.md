@@ -28,7 +28,6 @@ Ferramentas para escolas:
 
 Introdução a programação:
 
-- [Minecraft Education](https://education.minecraft.net)
 - [Code.org](https://code.org)
 - [Scratch](https://scratch.mit.edu)
 - [Micro:bit](https://makecode.microbit.org)
