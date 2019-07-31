@@ -21,6 +21,8 @@ Jogos recomendados para raciocínio lógico:
 - [Monument Valley 2](https://www.ustwo.com/work/monument-valley-mobile-games) ([Android](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2&hl=pt_BR) e [iOS](https://itunes.apple.com/br/app/monument-valley-2/id1187265767?mt=8))
 - [Minecraft](https://www.minecraft.net/pt-br/) ([Android](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) e [iOS](https://itunes.apple.com/br/app/minecraft/id479516143?mt=8))
 - [Sevn](https://spielstein.com/apps/sevn) ([iOS](https://itunes.apple.com/us/app/sevn/id1179097907?mt=8))
+- [Total Party Kill](https://adventureislands.itch.io/total-party-kill) ([Android](https://play.google.com/store/apps/details?id=com.adventureislands.totalpartykill) e [iOS](https://apps.apple.com/br/app/total-party-kill/id1462538547))
+- Epic Game Maker ([Android](https://play.google.com/store/apps/details?id=com.electricpunch.epicgamemaker&hl=pt_BR) e [iOS](https://apps.apple.com/us/app/epic-game-maker-sandbox-craft/id1403717791))
 
 Ferramentas para escolas:
 
