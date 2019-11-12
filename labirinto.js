@@ -18,6 +18,7 @@ function maze(x, y) {
         j > 0 && j < x + 1 && k > 0 && (j != here[0] + 1 || k != here[1] + 1)
       );
   }
+
   function step() {
     if (0 < n) {
       var potential = [
@@ -74,4 +75,5 @@ function display(m) {
   }
   return text.join("");
 }
+
 document.getElementById("out").innerHTML = display(maze(20, 20));
