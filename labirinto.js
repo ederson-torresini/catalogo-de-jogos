@@ -47,7 +47,7 @@ function maze(x, y) {
         verti: verti,
         here: here
       });
-      setTimeout(step, 10);
+      setTimeout(step, 100);
     }
   }
   step();
@@ -76,4 +76,4 @@ function display(m) {
   return text.join("");
 }
 
-document.getElementById("out").innerHTML = display(maze(20, 20));
+document.getElementById("out").innerHTML = display(maze(10, 10));
