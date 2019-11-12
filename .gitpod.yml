@@ -1,0 +1,9 @@
+vscode:
+  extensions:
+    - esbenp.prettier-vscode@2.3.0:1F0Pvb/ORZ/T+b60LIMs8w==
+tasks:
+  - init: yarn install
+    command: yarn start
+ports:
+  - port: 3000
+    onOpen: open-preview

@@ -1,0 +1,24 @@
+{
+  "author": "Ederson Torresini",
+  "bugs": {
+    "url": "https://github.com/boidacarapreta/catalogo-de-jogos/issues"
+  },
+  "description": "Jogos com fins educacionais",
+  "homepage": "https://github.com/boidacarapreta/catalogo-de-jogos#readme",
+  "main": "index.html",
+  "name": "catalogo-de-jogos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boidacarapreta/catalogo-de-jogos.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
