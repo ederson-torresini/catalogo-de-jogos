@@ -18,39 +18,27 @@ function maze(x, y) {
         j > 0 && j < x + 1 && k > 0 && (j != here[0] + 1 || k != here[1] + 1)
       );
   }
-
-  function step() {
-    if (0 < n) {
-      var potential = [
-        [here[0] + 1, here[1]],
-        [here[0], here[1] + 1],
-        [here[0] - 1, here[1]],
-        [here[0], here[1] - 1]
-      ];
-      var neighbors = [];
-      for (var j = 0; j < 4; j++)
-        if (unvisited[potential[j][0] + 1][potential[j][1] + 1])
-          neighbors.push(potential[j]);
-      if (neighbors.length) {
-        n = n - 1;
-        next = neighbors[Math.floor(Math.random() * neighbors.length)];
-        unvisited[next[0] + 1][next[1] + 1] = false;
-        if (next[0] == here[0])
-          horiz[next[0]][(next[1] + here[1] - 1) / 2] = true;
-        else verti[(next[0] + here[0] - 1) / 2][next[1]] = true;
-        path.push((here = next));
-      } else here = path.pop();
-      document.getElementById("out").innerHTML = display({
-        x: x,
-        y: y,
-        horiz: horiz,
-        verti: verti,
-        here: here
-      });
-      setTimeout(step, 100);
-    }
+  while (0 < n) {
+    var potential = [
+      [here[0] + 1, here[1]],
+      [here[0], here[1] + 1],
+      [here[0] - 1, here[1]],
+      [here[0], here[1] - 1]
+    ];
+    var neighbors = [];
+    for (var j = 0; j < 4; j++)
+      if (unvisited[potential[j][0] + 1][potential[j][1] + 1])
+        neighbors.push(potential[j]);
+    if (neighbors.length) {
+      n = n - 1;
+      next = neighbors[Math.floor(Math.random() * neighbors.length)];
+      unvisited[next[0] + 1][next[1] + 1] = false;
+      if (next[0] == here[0])
+        horiz[next[0]][(next[1] + here[1] - 1) / 2] = true;
+      else verti[(next[0] + here[0] - 1) / 2][next[1]] = true;
+      path.push((here = next));
+    } else here = path.pop();
   }
-  step();
   return { x: x, y: y, horiz: horiz, verti: verti };
 }
 
@@ -76,4 +64,13 @@ function display(m) {
   return text.join("");
 }
 
-document.getElementById("out").innerHTML = display(maze(10, 10));
+function gerar() {
+  document.getElementById("out").innerHTML = "";
+  var altura =
+    parseInt(document.querySelector("input#altura").value.trim()) ||
+    parseInt(document.querySelector("input#altura").defaultValue);
+  var largura =
+    parseInt(document.querySelector("input#largura").value.trim()) ||
+    parseInt(document.querySelector("input#largura").defaultValue);
+  document.getElementById("out").innerHTML = display(maze(altura, largura));
+}
