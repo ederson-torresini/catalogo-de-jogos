@@ -20,6 +20,7 @@ Ferramentas para escolas:
 
 Introdução a programação:
 
+- [CodeCombat](https://br.codecombat.com)
 - [Code.org](https://code.org)
 - [Scratch](https://scratch.mit.edu)
 - [Micro:bit](https://makecode.microbit.org)
