@@ -29,3 +29,11 @@ Projetos com Arduino:
 
 - [Hackster](https://www.hackster.io/arduino)
 - [Instructables](https://www.instructables.com/circuits/arduino/projects/)
+
+## No IFSC câmpus São José
+
+Jogos feitos com Phaser3 (Javascript)
+
+- [IFSCape](https://github.com/ifscape/ifscape)
+- [Mask Dash](https://github.com/Joltaire/mask-dash/tree/mask-dash)
+- [Telebross](https://github.com/telebross/Game)
