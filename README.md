@@ -32,7 +32,12 @@ Projetos com Arduino:
 
 ## No IFSC câmpus São José
 
-Jogos feitos com Phaser3 (Javascript)
+Jogos em texto (*chatbots*) feitos com Python 3 + [Errbot](https://errbot.io/):
+
+- [ErRPG](https://github.com/AugustoCoelho/errpg)
+- [Project E.V.A.](https://github.com/thainan1208/projecteva)
+
+Jogos Web feitos com Javascript + [Phaser 3](https://phaser.io/):
 
 - [IFSCape](https://github.com/ifscape/ifscape)
 - [Mask Dash](https://github.com/Joltaire/mask-dash/tree/mask-dash)
