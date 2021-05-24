@@ -40,11 +40,20 @@ Jogos em texto (*chatbots*) feitos com Python 3 + [Errbot](https://errbot.io/):
 
 Jogos Web feitos com Javascript + [Phaser 3](https://phaser.io/):
 
-- [IFSCape](https://github.com/ifscape/ifscape)
-- [Mask Dash](https://github.com/Joltaire/mask-dash/tree/mask-dash)
-- [Telebross](https://github.com/telebross/Game)
-- [Lendas da Arena](https://github.com/Balkirprpl/Lendas-da-Arena)
-- [Soccer Heroes](https://github.com/Matheuschn/Soccer-Heroes)
-- [Yin Yang](https://github.com/piyinyang/yinyang)
-- [ParkScape](https://github.com/luisricardopires/phaser3)
-- [Super Pendente World](https://github.com/superpendenteworld/pendente)
+- 2019.2:
+  - [IFSCape](https://github.com/ifscape/ifscape)
+  - [Mask Dash](https://github.com/Joltaire/mask-dash/tree/mask-dash)
+  - [Telebross](https://github.com/telebross/Game)
+  - [Lendas da Arena](https://github.com/Balkirprpl/Lendas-da-Arena)
+  - [Soccer Heroes](https://github.com/Matheuschn/Soccer-Heroes)
+  - [Yin Yang](https://github.com/piyinyang/yinyang)
+  - [ParkScape](https://github.com/luisricardopires/phaser3)
+  - [Super Pendente World](https://github.com/superpendenteworld/pendente)
+- [2020.2](https://github.com/boidacarapreta/arc20202#equipes):
+  - [Mirabolante](https://github.com/boidacarapreta/arc20202-mirabolante-jogo-web) ([original](https://github.com/mirabolante/jogo-web))
+  - [O Labirinto das Escolhas](https://github.com/boidacarapreta/arc20202-FBJ-TCD-O-LABIRINTO-DAS-ESCOLHAS) ([original](https://github.com/FBJ-TCD/O-LABIRINTO-DAS-ESCOLHAS))
+  - [FT-Riddle](https://github.com/boidacarapreta/arc20202-FT-riddle-jogo-web) ([original](https://github.com/FT-riddle/jogo-web))
+  - [Yggdrasil](https://github.com/boidacarapreta/arc20202-Nidhoogr-Yggdrasil) ([original](https://github.com/Nidhoogr/Yggdrasil))
+  - [MBA Studios](https://github.com/boidacarapreta/arc20202-mba-studios-mba-studios) ([original](https://github.com/mba-studios/mba-studios))
+  - [TiO Games](https://github.com/boidacarapreta/arc20202-TiO-Games-jogo_web) ([original](https://github.com/TiO-Games/jogo_web))
+  - [LMV](https://github.com/boidacarapreta/arc20202-LMV-Jogos-Jogo) ([original](https://github.com/LMV-Jogos/Jogo))
