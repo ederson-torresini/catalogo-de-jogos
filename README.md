@@ -68,7 +68,7 @@ Jogos Web feitos com Javascript + [Phaser 3](https://phaser.io/):
   - [Monju-](https://github.com/boidacarapreta/integrado20212-ramolia-Monju-) ([original](https://github.com/ramolia/Monju-))
   - [Sync Diving Adventure](https://github.com/boidacarapreta/integrado20212-into-the-thick-of-it-Synk-Diving-Adventure) ([original](https://github.com/into-the-thick-of-it/Synk-Diving-Adventure))
   - [Cegos no Labirinto](https://github.com/boidacarapreta/integrado20212-niiquel-jogo) ([original](https://github.com/niiquel/jogo/))
-- 2022.1
+- [2022.1](https://github.com/boidacarapreta/adcipt20221#equipes):
   - [FortFight](https://github.com/boidacarapreta/adcipt20221-whatsapp22-Jogo-principal) ([original](https://github.com/whatsapp22/Jogo-principal))
   - [Gravity Falls Game](https://github.com/boidacarapreta/adcipt20221-ifscgf-Gravity-Falls) ([original](https://github.com/ifscgf/Gravity-Falls))
   - [Killer Run](https://github.com/boidacarapreta/adcipt20221-C-K-R-S-Killer-Run) ([original](https://github.com/C-K-R-S/Killer-Run))
