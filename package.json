@@ -16,9 +16,6 @@
   },
   "version": "0.2.0",
   "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "prettier": "^1.18.2"
+    "express": "^4.18.2"
   }
 }
