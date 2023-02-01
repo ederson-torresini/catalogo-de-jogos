@@ -26,6 +26,12 @@ Introdução a programação:
 - [Scratch](https://scratch.mit.edu)
 - [Micro:bit](https://makecode.microbit.org)
 
+_Frameworks_ de jogos:
+
+- [Phaser](http://phaser.io)
+- [GDevelop](https://gdevelop.io)
+- [GB Studio](https://www.gbstudio.dev)
+
 Projetos com Arduino:
 
 - [Hackster](https://www.hackster.io/arduino)
