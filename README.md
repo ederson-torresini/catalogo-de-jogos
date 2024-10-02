@@ -2,7 +2,7 @@
 
 Jogos recomendados para raciocínio lógico:
 
-- [Gerador de labirinto](https://boidacarapreta.github.io/catalogo-de-jogos/) para imprimir
+- [Gerador de labirinto](https://ederson-torresini.github.io/catalogo-de-jogos/) para imprimir
 - [2048](https://play2048.co/) ([Android](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) e [iOS](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805))
 - [Lightbot](http://lightbot.com) ([Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot) e [iOS](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474?mt=8))
 - [Mekorama](http://www.mekorama.com) ([Android](https://play.google.com/store/apps/details?id=com.martinmagni.mekorama) e [iOS](https://itunes.apple.com/br/app/mekorama/id1079464948?mt=8))
@@ -40,4 +40,4 @@ Projetos com Arduino:
 
 ## No IFSC câmpus São José
 
-Publicado em https://boidacarapreta.gitbook.io/projetos/integrado-ao-ensino-medio-em-telecomunicacoes/catalogo-de-jogos
+Publicado aqui, no [Github](https://github.com/ederson-torresini/ederson-torresini/blob/main/integrado-ao-ensino-medio-em-telecomunicacoes/catalogo-de-jogos-web.md).
